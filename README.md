@@ -7,10 +7,8 @@
 ⭐️ Hallo, mein Name ist Egemen, ich entwickeln seit langem softwarebezogene Projekte. Ich studiere zurzeit Gymnasium und ich bin 17 Jahre alt.   
 <br></br>
 
-### Github Stat:
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Rhodephp&show_icons=true&theme=gradient)
-
+### Discord Profiles:
+[![Discord Presence](https://lanyard.cnrad.dev/api/797503148578177064)](https://discord.com/users/797503148578177064)
 
 <div align="center">
    <a href="https://discord.com/users/797503148578177064" target="_blank">
@@ -27,6 +25,6 @@
    <a href="https://discord.com/users/797503148578177064"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
 
-### Discord Profiles:
-[![Discord Presence](https://lanyard.cnrad.dev/api/797503148578177064)](https://discord.com/users/797503148578177064)
+### Github Stat:
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Rhodephp&show_icons=true&theme=gradient)
