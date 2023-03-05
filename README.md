@@ -24,7 +24,3 @@
    <a href="https://instagram.com/egemenrhode"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
    <a href="https://discord.com/users/797503148578177064"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
-
-### Github Stat:
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Rhodephp&show_icons=true&theme=gradient)
