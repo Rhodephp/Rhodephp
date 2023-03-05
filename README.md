@@ -1,16 +1,32 @@
-### Hi there 👋
+### Github Profiles
+</h1>
+⭐️ Merhaba, ben Egemen, uzun zamandır yazılımla ilgili projeler geliştiriyoruz. Şu anda lise okuyorum ve 17 yaşındayım.
+<br></br>
 
-<!--
-**Rhodephp/Rhodephp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h1>
+⭐️ Hallo, mein Name ist Egemen, ich entwickeln seit langem softwarebezogene Projekte. Ich studiere zurzeit Gymnasium und ich bin 17 Jahre alt.   
+<br></br>
 
-Here are some ideas to get you started:
+### Github Stat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Rhodephp&show_icons=true&theme=gradient)
+
+
+<div align="center">
+   <a href="https://discord.com/users/797503148578177064" target="_blank">
+   </a>
+</div>
+</div>
+
+### Software language:
+<img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,mongodb,firebase,git,tailwind,ps&theme=dark" />
+
+### Contact Me:
+<div>
+   <a href="https://instagram.com/egemenrhode"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+   <a href="https://discord.com/users/797503148578177064"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
+</div>
+
+### Discord Profiles:
+[![Discord Presence](https://lanyard.cnrad.dev/api/797503148578177064)](https://discord.com/users/797503148578177064)
+
